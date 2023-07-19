@@ -7,6 +7,4 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.71"
-bevy = "0.10.1"
-env_logger = "0.10.0"
-log = { version = "0.4.19", features = ["serde"] }
+bevy = "0.11.0"
